@@ -89,7 +89,6 @@ syslinux
 systemd-resolvconf
 tcpdump
 terminus-font
-termite-terminfo
 testdisk
 udftools
 usb_modeswitch
@@ -121,6 +120,7 @@ neofetch
 
 #Browser
 firefox
+alg-firefox-settings
 
 #Software Center
 pamac-aur
