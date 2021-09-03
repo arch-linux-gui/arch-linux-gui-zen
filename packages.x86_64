@@ -123,8 +123,8 @@ neofetch
 firefox
 
 #Software Center
-discover
-packagekit-qt5
+pamac-aur
+archlinux-appstream-data-pamac
 
 #Installer
 grub
@@ -135,7 +135,8 @@ os-prober
 #Icons
 tela-circle-icon
 mcmojave-cursors
+alg-plasma-settings
 
-#chaotic
+#chaotic aur
 chaotic-keyring
 chaotic-mirrorlist
