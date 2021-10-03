@@ -6,8 +6,6 @@ arch-install-scripts
 b43-fwcutter
 base
 bind-tools
-brltty
-#broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
@@ -45,7 +43,6 @@ kitty-terminfo
 lftp
 linux-zen
 linux-zen-headers
-linux-atm
 linux-firmware
 livecd-sounds
 lsscsi
@@ -118,10 +115,6 @@ xdg-user-dirs
 spectacle
 neofetch
 
-#Browser
-firefox
-alg-firefox-settings
-
 #Software Center
 pamac-aur
 archlinux-appstream-data-pamac
@@ -132,11 +125,11 @@ calamares
 alg-zen-cala-config
 os-prober
 
-#Icons
-tela-circle-icon
-mcmojave-cursors
-alg-plasma-settings
-
 #chaotic aur
 chaotic-keyring
 chaotic-mirrorlist
+
+#nvidia
+nvidia
+nvidia-utils
+nvidia-settings
