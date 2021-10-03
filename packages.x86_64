@@ -130,6 +130,6 @@ chaotic-keyring
 chaotic-mirrorlist
 
 #nvidia
-nvidia
+nvidia-dkms
 nvidia-utils
 nvidia-settings
