@@ -35,7 +35,7 @@ echo "#################################"
 echo "Selection was "$selection
 echo "#################################"
 if [[ $selection == "free" ]]; then
-	pacman -Rns --noconfirm nvidia nvidia-utils nvidia-settings
+	pacman -Rns --noconfirm nvidia-dkms nvidia-utils nvidia-settings
 fi
 
 
