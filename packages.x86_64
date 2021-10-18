@@ -19,7 +19,6 @@ dmraid
 dnsmasq
 dosfstools
 edk2-shell
-efibootmgr
 espeakup
 ethtool
 exfatprogs
@@ -99,21 +98,21 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE Plasma
-plasma
+#Arch Linux GUI Zen Core
 xorg
 sddm
 zsh-completions
 zsh-syntax-highlighting
+xf86-input-libinput
 networkmanager
+xdg-user-dirs
+neofetch
 
-#System Utilities for ALG
+#Zen ISO Live CD
+plasma-desktop
 konsole
 kate
 dolphin
-xdg-user-dirs
-spectacle
-neofetch
 
 #Software Center
 pamac-aur
@@ -121,6 +120,7 @@ archlinux-appstream-data-pamac
 
 #Installer
 grub
+efibootmgr
 calamares
 alg-zen-cala-config
 os-prober

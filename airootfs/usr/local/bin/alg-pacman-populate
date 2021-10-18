@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "#################################"
+echo "Start alg-pacman-populate"
+echo "#################################"
+
+echo "Populate Core Team keys"
+echo "#################################"
+pacman-key --init
+pacman-key --populate archlinux
+pacman-key --populate chaotic
+
+echo "#################################"
+echo "End alg-pacman-populate"
+echo "#################################"
+rm /usr/local/bin/alg-pacman-populate
