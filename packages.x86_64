@@ -99,20 +99,21 @@ xl2tpd
 zsh
 
 #Arch Linux GUI Zen Core
-xorg
-sddm
+xorg-server
+lightdm
+lightdm-gtk-greeter
 zsh-completions
 zsh-syntax-highlighting
 xf86-input-libinput
 networkmanager
 xdg-user-dirs
 neofetch
+virtualbox-guest-utils
 
 #Zen ISO Live CD
-plasma
-konsole
-kate
-dolphin
+xfce4
+mousepad
+thunar
 
 #Software Center
 pamac-aur
