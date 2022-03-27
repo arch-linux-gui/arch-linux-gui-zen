@@ -41,9 +41,6 @@ iwd
 jfsutils
 kitty-terminfo
 lftp
-linux-zen
-linux-zen-headers
-linux-firmware
 livecd-sounds
 lsscsi
 lvm2
@@ -98,6 +95,11 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+#Kernel
+linux-zen
+linux-zen-headers
+linux-firmware
 
 #Arch Linux GUI Zen Core
 xorg-server
