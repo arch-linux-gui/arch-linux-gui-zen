@@ -6,6 +6,7 @@ arch-install-scripts
 b43-fwcutter
 base
 bind-tools
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -109,6 +110,7 @@ networkmanager
 xdg-user-dirs
 neofetch
 virtualbox-guest-utils
+alg-livecd-desktop
 
 #Zen ISO Live CD
 xfce4
