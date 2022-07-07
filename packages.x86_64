@@ -103,8 +103,7 @@ linux-firmware
 
 #Arch Linux GUI Zen Core
 xorg-server
-lightdm
-lightdm-gtk-greeter
+sddm
 zsh-completions
 zsh-syntax-highlighting
 xf86-input-libinput
