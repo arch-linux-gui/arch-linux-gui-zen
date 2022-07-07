@@ -12,5 +12,3 @@ rm -vr /etc/systemd/system/etc-pacman.d-gnupg.mount
 rm -vf /root/{.automated_script.sh,.zlogin}
 
 rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
-
-rm -vf /home/$USER/*
