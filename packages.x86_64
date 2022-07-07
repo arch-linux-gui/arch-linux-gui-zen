@@ -115,9 +115,9 @@ virtualbox-guest-utils
 alg-livecd-desktop
 
 #Zen ISO Live CD
-xfce4
-mousepad
-thunar
+plasma
+konsole
+dolphin
 
 #Software Center
 pamac-aur
